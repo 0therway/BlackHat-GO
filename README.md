@@ -14,3 +14,4 @@ for string verb Formatting:
 https://github.com/0therway/BlackHat-GO/blob/main/verb.go#L7
 
 for interger verp formatting:
+https://github.com/0therway/BlackHat-GO/blob/main/int-verb.go
