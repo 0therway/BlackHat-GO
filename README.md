@@ -7,3 +7,5 @@ https://github.com/lopeznico-rgb/BlackHat-GO/blob/main/greet.go
 Day 2 go basic syntax:
 https://github.com/0therway/BlackHat-GO/blob/main/hello.go
 - I looked back so i don't miss any thing 
+
+Day 3 changing the output base on go Prind verb formatting
