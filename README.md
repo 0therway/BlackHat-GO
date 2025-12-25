@@ -15,3 +15,6 @@ https://github.com/0therway/BlackHat-GO/blob/main/verb.go#L7
 
 for interger verp formatting:
 https://github.com/0therway/BlackHat-GO/blob/main/int-verb.go
+
+Day 4 Data types with println:
+https://github.com/0therway/BlackHat-GO/blob/main/data-types.go
